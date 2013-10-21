@@ -11,14 +11,14 @@
 2. Φροντίστε ο φάκελος να έχει - όπως και τα περιεχόμενά του - τα κατάλληλα permissions
   όπως αναγράφονται στο εγχειρίδιο του OpenCatalog.
 3. Εισέλθετε στον administrator του OpenCatalog, μεταβείτε στο μενού System > Localization > Languages.
-4. Εισάγετε μια νέα γλώσσα με τις εξής παραμέτρους:
-  Language Name: Greek
-  Code: gr
-  Locale: el_GR.UTF-8,greek
-  Image: gr.png
-  Directory: greek
-  Filename: greek
-  Status: Enabled
+4. Εισάγετε μια νέα γλώσσα με τις εξής παραμέτρους:  
+  Language Name: Greek  
+  Code: gr  
+  Locale: el_GR.UTF-8,greek  
+  Image: gr.png  
+  Directory: greek  
+  Filename: greek  
+  Status: Enabled  
   Sort Order: 2 (ή όποιο άλλο διαθέσιμο αριθμό έχετε, αν π.χ θα είναι μόνο τα Ελληνικά βάλτε 1)
 5. Πατήστε Save και η γλώσσα έχει εγκατασταθεί.
 
