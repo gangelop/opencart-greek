@@ -15,5 +15,5 @@ $_['text_account']      = 'Ο λογαριασμός μου';
 $_['text_order']        = 'Ιστορικό Παραγγελιών';
 $_['text_wishlist']     = 'Λίστα Επιθυμιών';
 $_['text_newsletter']   = 'Ενημερώσεις';
-$_['text_powered']      = 'Powered By <a href="http://www.opencart.com">OpenCart</a>. Μετάφραση <a href="http://net314.eu">net.314 Development</a><br>Your Store &copy; 2011';
+$_['text_powered']      = 'Powered By <a href="http://www.opencart.com">OpenCart</a>.';
 ?>
