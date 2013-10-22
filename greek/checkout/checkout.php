@@ -3,7 +3,7 @@
 $_['heading_title']                  = 'Αγορά';
 
 // Text
-$_['text_cart']                      = 'Καλάθι Αγοράς';
+$_['text_cart']                      = 'Καλάθι Αγορών';
 $_['text_checkout_option']           = 'Βήμα 1: Επιλογές Αγοράς';
 $_['text_checkout_account']          = 'Βήμα 2: Λογαριασμός &amp; Λεπτομέρειες Χρέωσης';
 $_['text_checkout_payment_address']  = 'Βήμα 2: Λεπτομέρειες Χρέωσης';
