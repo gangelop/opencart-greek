@@ -31,6 +31,6 @@
 
   Οποιεσδήποτε διορθώσεις, παρατηρήσεις και σχόλια είναι καλοδεχούμενα.
   Ο κώδικας βρίσκεται στο github στη διεύθυνση:  
-  https://github.com/lathan/opencart_greek
+  https://github.com/lathan/opencart-greek
 
   Καλές πωλήσεις :)
