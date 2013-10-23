@@ -30,7 +30,7 @@
   Η παρούσα μετάφραση διέπεται από τους όρους χρήσης της άδειας  GPL v3.
 
   Το project βρίσκεται στο github στη διεύθυνση:
-  https://github.com/lathan/opencart-greek
+  https://github.com/lathan/opencart-greek  
   Οποιεσδήποτε διορθώσεις, παρατηρήσεις, σχόλια και pull requests είναι καλοδεχούμενα.
 
 
