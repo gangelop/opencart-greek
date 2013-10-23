@@ -8,8 +8,8 @@
 1. Αντιγράψτε το φάκελο greek μέσα στην εγκατάσταση OpenCart που έχετε, στο κατάλληλο σημείο
   (μέσα στο φάκελο catalog/languages).
 2. Φροντίστε ο φάκελος να έχει - όπως και τα περιεχόμενά του - τα κατάλληλα permissions
-  όπως αναγράφονται στο εγχειρίδιο του OpenCatalog.
-3. Εισέλθετε στον administrator του OpenCatalog, μεταβείτε στο μενού System > Localization > Languages.
+  όπως αναγράφονται στο εγχειρίδιο του OpenCart.
+3. Εισέλθετε στον administrator του OpenCart, μεταβείτε στο μενού System > Localization > Languages.
 4. Εισάγετε μια νέα γλώσσα με τις εξής παραμέτρους:  
   Language Name: Greek  
   Code: gr  
