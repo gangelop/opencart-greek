@@ -18,6 +18,7 @@ $_['text_or']           = '- Ή -';
 $_['text_reviews']      = '%s κριτικές'; 
 $_['text_write']        = 'Γράψτε μια κριτική';
 $_['text_no_reviews']   = 'Δεν υπάρχουν κριτικές για το προϊόν.';
+$_['text_on']           = ' on ';
 $_['text_note']         = '<span style="color: #FF0000;">Σημείωση:</span> δε μεταφράζεται η HTML!';
 $_['text_share']        = 'Μοιραστείτε';
 $_['text_success']      = 'Ευχαριστούμε για την κριτική σας. Έχει προωθηθεί στο αρμόδιο τμήμα για έγκριση.';
@@ -25,6 +26,16 @@ $_['text_upload']       = 'Το αρχείο σας φορτώθηκε επιτ�
 $_['text_wait']         = 'Παρακαλώ Περιμένετε!';
 $_['text_tags']         = 'Tags:';
 $_['text_error']        = 'Το Προϊόν δε βρέθηκε!';
+$_['text_payment_profile'] = 'Προφιλ Πληρωμών';
+
+$_['text_trial_description'] = '%s κάθε %d %s(s) για %d πληρωμές τότε';
+$_['text_payment_description'] = '%s κάθε %d %s(s) για %d πληρωμές';
+$_['text_payment_until_canceled_description'] = '%s κάθε %d %s(s) μέχρι ακύρωσης';
+$_['text_day'] = 'Ημέρα';
+$_['text_week'] = 'Εβδομάδα';
+$_['text_semi_month'] = 'Μισός Μήνας';
+$_['text_month'] = 'Μήνας';
+$_['text_year'] = 'Έτος';
 
 // Entry
 $_['entry_name']        = 'Το Όνομά σας:';
