@@ -27,7 +27,7 @@ $_['button_compare']        = 'Σύγκριση';
 $_['button_wishlist']       = 'Επιθυμητό';
 $_['button_checkout']       = 'Αγορά';
 $_['button_confirm']        = 'Επιβεβαίωση Παραγγελίας';
-$_['button_coupon']         = 'Χρήση Κουπονιού';
+$_['button_coupon']         = 'Εφαρμογή Κουπονιού';
 $_['button_delete']         = 'Διαγραφή';
 $_['button_download']       = 'Download';
 $_['button_edit']           = 'Επεξεργασία';
@@ -49,7 +49,7 @@ $_['button_view']           = 'Εμφάνιση';
 $_['button_voucher']        = 'Εφαρμογή Δωροεπιταγής';
 $_['button_upload']         = 'Ανέβασμα Αρχείου';
 $_['button_reward']         = 'Εφαρμογή Πόντων';
-$_['button_quote']          = 'Λήψη Σχολίων';
+$_['button_quote']          = 'Υπολογισμός Κόστους';
 
 // Error
 $_['error_upload_1']        = 'Προσοχή: Το αρχείο προς ανέβασμα ξεπερνά το ανώτατο όριο upload_max_filesize στο php.ini!';
