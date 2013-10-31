@@ -1,10 +1,10 @@
 <?php
 // Text
-$_['text_subject']      = '%s - Order Update %s';
-$_['text_order']        = 'Order ID:';
-$_['text_date_added']   = 'Date Ordered:';
-$_['text_order_status'] = 'Your order has been updated to the following status:';
-$_['text_comment']      = 'The comments for your order are:';
-$_['text_link']         = 'To view your order click on the link below:';
-$_['text_footer']       = 'Please reply to this email if you have any questions.';
+$_['text_subject']      = '%s - Ενημέρωση Παραγγελίας %s';
+$_['text_order']        = 'Παραγγελία:';
+$_['text_date_added']   = 'Ημερομηνία Καταχώρησης:';
+$_['text_order_status'] = 'Η κατάσταση της παραγγελίας σας είναι:';
+$_['text_comment']      = 'Σχόλια Παραγγελίας:';
+$_['text_link']         = 'Για να δείτε την παραγγελία σας κάντε κλικ στον παρακάτω σύνδεσμο:';
+$_['text_footer']       = 'Παρακαλώ απαντήστε σε αυτό το e-mail για ερωτήσεις ή σχόλια.';
 ?>
