@@ -1,9 +1,9 @@
 <?php
 // Text
-$_['text_subject']  = 'You have been sent a gift voucher from %s';
-$_['text_greeting'] = 'Congratulations, You have received a Gift Certificate worth %s';
-$_['text_from']     = 'This Gift Certificate has been sent to you by %s';
-$_['text_message']  = 'With a message saying';
-$_['text_redeem']   = 'To redeem this Gift Certificate, write down the redemption code which is <b>%s</b> then click on the the link below and purchase the product you wish to use this gift voucher on. You can enter the gift voucher code on the shopping cart page before you click checkout.';
-$_['text_footer']   = 'Please reply to this email if you have any questions.';
+$_['text_subject']  = 'Έχετε λάβει μια δωροεπιταγή από %s';
+$_['text_greeting'] = 'Συγχαρητήρια, έχετε λάβει μια δωροεπιταγή αξίας %s';
+$_['text_from']     = 'Η δωορεπιταγή αυτή έχει σταλεί από %s';
+$_['text_message']  = 'Με το ακόλουθο μήνυμα';
+$_['text_redeem']   = 'Για να εξαργυρώσετε αυτή τη δωροεπιταγή, σημειώστε τον κωδικό της <b>%s</b>, πατήστε στον ακόλουθο σύνδεσμο και αγοράστε το προϊόν που θέλετε χρησιμοποιώντας τη. Μπορείτε να εισάγετε τον κωδικό δωροεπιταγής στο καλάθι αγορών πριν πατήσετε Αγορά.';
+$_['text_footer']   = 'Παρακαλώ απαντήστε σε αυτό το email αν έχετε ερωτήσεις.';
 ?>
