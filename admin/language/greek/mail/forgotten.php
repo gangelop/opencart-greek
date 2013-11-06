@@ -1,7 +1,7 @@
 <?php
 // Text
-$_['text_subject']  = '%s - Password reset request';
-$_['text_greeting'] = 'A new password was requested for %s administration.';
-$_['text_change']   = 'To reset your password click on the link below:';
-$_['text_ip']       = 'The IP used to make this request was: %s';
+$_['text_subject']  = '%s - Αίτημα Επαναφοράς Κωδικού';
+$_['text_greeting'] = 'Έγινε αίτημα επαναφοράς κωδικού για διαχειριστή του %s';
+$_['text_change']   = 'Για να εκδόσετε νέο κωδικό πρόσβασης κάντε κλικ στον ακόλουθο σύνδεσμο:';
+$_['text_ip']       = 'Το αίτημα αυτό έγινε από τη διεύθυνση %s';
 ?>
