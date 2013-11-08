@@ -1,4 +1,4 @@
 <?php
 // Heading
-$_['heading_title'] = 'Βελτίωση Αναζήτησης';
+$_['heading_title'] = 'Φίλτρα';
 ?>
