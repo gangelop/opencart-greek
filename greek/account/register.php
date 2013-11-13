@@ -1,10 +1,10 @@
 <?php
 // Heading 
-$_['heading_title']        = 'Δήλωση Λογαριασμού';
+$_['heading_title']        = 'Εγγραφή';
 
 // Text
 $_['text_account']         = 'Λογαριασμός';
-$_['text_register']        = 'Δήλωση';
+$_['text_register']        = 'Εγγραφή';
 $_['text_account_already'] = 'Εάν έχετε ήδη λογαριασμό, εισέλθετε από <a href="%s">εδώ</a>.';
 $_['text_your_details']    = 'Προσωπικά Στοιχεία';
 $_['text_your_address']    = 'Διεύθυνση';
