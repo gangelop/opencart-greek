@@ -1,4 +1,4 @@
 <?php
 // Text
-$_['text_currency'] = 'Συνάλαγμα';
+$_['text_currency'] = 'Συνάλλαγμα';
 ?>
