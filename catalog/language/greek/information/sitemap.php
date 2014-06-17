@@ -1,6 +1,6 @@
 <?php
 // Heading
-$_['heading_title']    = 'Χάρτης Ιστοτόπου';
+$_['heading_title']    = 'Χάρτης Ιστότοπου';
  
 // Text
 $_['text_special']     = 'Ειδικές Προσφορές';
