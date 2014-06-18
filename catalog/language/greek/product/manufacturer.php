@@ -1,6 +1,6 @@
 <?php
 // Heading
-$_['heading_title']     = 'Εύρεση Αγαπημένής Μάρκας';
+$_['heading_title']     = 'Εύρεση Αγαπημένης Μάρκας';
 
 // Text
 $_['text_brand']        = 'Μάρκα';
